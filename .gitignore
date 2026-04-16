@@ -22,3 +22,4 @@ venv/
 /meeting4-5/.ipynb_checkpoints/
 AGENTS.md
 CLAUDE.md
+**/data/
