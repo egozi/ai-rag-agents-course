@@ -23,4 +23,4 @@ venv/
 AGENTS.md
 CLAUDE.md
 **/data/
-**/.codex/
+**/.codex
