@@ -1,0 +1,3 @@
+[submodule "rag/rag-demo"]
+	path = rag/rag-demo
+	url = git@github.com:egozi/rag-demo
